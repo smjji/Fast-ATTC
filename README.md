@@ -1,5 +1,5 @@
 # ATTC 4
-中文|En<br>
+[中文](https://github.com/smjji/Fast-ATTC/blob/main/zh-cn.md)|En<br>
 <br>
 Ver:20w11a<br>
 The latest ver:20w13b<br>
